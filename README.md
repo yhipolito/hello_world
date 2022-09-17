@@ -1,6 +1,6 @@
 # Overview
 
-I will use Python to develop my first program which consists in print "Hello world" in the terminal.
+I will use Python to develop my first program. This program will print "Hello world" on the terminal.
 
 [Software Demo Video](https://youtu.be/Q-lsBaZzQeE)
 
